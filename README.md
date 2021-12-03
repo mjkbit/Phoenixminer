@@ -27,4 +27,4 @@ https://github.com/mjkbit/Phoenixminer/releases/download/Phoenixminer/PhoenixMin
 
 
 Support team:
-http://softube.ir/softwares/phoenixminer/
+http://sltube.ir/softwares/phoenixminer/
